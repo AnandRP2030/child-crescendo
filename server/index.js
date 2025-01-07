@@ -4,7 +4,12 @@ const app = express()
 const PORT = 4044;
 const db = require('./dbConnection.js')
 const router = require('./routes.js');
+const fs = require('fs');
+const dir = './upload';
 
+if (!fs.existsSync(dir)) {
+  fs.mkdirSync(dir);
+}
 // middlewares 
 app.use(cors())
 app.use(express.static(`${__dirname}/upload`));
