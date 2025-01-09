@@ -15,6 +15,16 @@ Child Crescendo is an innovative platform designed to simplify and enhance the v
 
 ---
 
+
+### Images Placeholder
+
+1. **Get Vaccinated** (Image)
+![Get Vaccinated](./readmeAssets/get-vaccinated.png)
+
+2. **Reset-password** (Image)
+![Reset Password](./readmeAssets/reset-password.png)
+
+
 ## Features
 
 ### Parent Features
@@ -66,19 +76,3 @@ Child Crescendo is an innovative platform designed to simplify and enhance the v
 - CORS
 
 ---
-
-## Demo and Visuals
-
-### GIFs and Images Placeholder
-
-1. **Homepage Overview** (GIF)
-   ![Add GIF of Homepage here]
-
-2. **Parent Booking Flow** (GIF)
-   ![Add GIF of Booking Flow here]
-
-3. **Admin Dashboard** (Image)
-   ![Add Image of Admin Dashboard here]
-
----
-
