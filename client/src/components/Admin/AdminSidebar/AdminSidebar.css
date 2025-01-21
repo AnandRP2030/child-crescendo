@@ -7,6 +7,11 @@
   width: 25%;
   position: fixed;
 }
+.admin-sidebar-links {
+  height: 80vh;
+  overflow: auto;
+
+}
 .sidebar-heading {
   display: flex;
   justify-content: space-between;

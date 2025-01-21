@@ -18,8 +18,9 @@ export const LandingPageNavbar = () => {
     // { value: "/", label: "Login" },
     { value: "/parent/login", label: "Parent" },
     { value: "/vc/login", label: "Vaccine Center" },
-    // { value: "/aw/login", label: "Asha Worker" },
+    { value: "/aw/login", label: "Asha Worker" },
     { value: "/hp/login", label: "Health Professional" },
+    { value: "/admin/login", label: "Admin" },
   ];
 
   return (

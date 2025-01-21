@@ -25,7 +25,6 @@ export const AdminDashboard = () => {
         <AdminSidebar changeActivePage={changeActivePage} />
 
         <div className="admin-dashboard-main-bar">
-          {/* {activePage === "parents" && <} */}
           {activePage === "parents" && <AdminParents />}
           {activePage === "hp" && <AdminHP />}
           {activePage === "vc" && <AdminVC />}
